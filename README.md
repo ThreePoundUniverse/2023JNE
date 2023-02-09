@@ -7,3 +7,5 @@ Note that different versions won't likely cause dependencies issues.
 ```
 pytorch-gpu == 1.12 
 ```
+## Citation
+https://iopscience.iop.org/article/10.1088/1741-2552/acb1d9
